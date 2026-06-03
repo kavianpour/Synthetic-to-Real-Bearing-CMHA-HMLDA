@@ -1,0 +1,49 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the conference paper below."
+title: "Synthetic to Real Framework based on Convolutional Multi-Head Attention and Hybrid Domain Alignment"
+abstract: >-
+  CMHA-HMLDA, an unsupervised synthetic-to-real framework for bearing fault
+  diagnosis. A convolutional multi-head attention network extracts features,
+  and a hybrid multi-layer domain alignment loss (global MK-MMD plus local
+  LMMD) aligns labeled synthetic source data with unlabeled real target data.
+  Validated on synthetic and real CWRU bearing datasets.
+authors:
+  - family-names: Ghorvei
+    given-names: Mohammadreza
+    affiliation: "Tarbiat Modares University, Tehran, Iran"
+  - family-names: Kavianpour
+    given-names: Mohammadreza
+    affiliation: "Tarbiat Modares University, Tehran, Iran"
+  - family-names: Beheshti
+    given-names: "Mohammad T. H."
+    affiliation: "Tarbiat Modares University, Tehran, Iran"
+  - family-names: Ramezani
+    given-names: Amin
+    affiliation: "Tarbiat Modares University, Tehran, Iran"
+keywords:
+  - unsupervised fault diagnosis
+  - multi-head attention
+  - hybrid domain alignment
+  - synthetic data
+  - domain adaptation
+license: CC-BY-4.0
+preferred-citation:
+  type: conference-paper
+  title: "Synthetic to Real Framework based on Convolutional Multi-Head Attention and Hybrid Domain Alignment"
+  authors:
+    - family-names: Ghorvei
+      given-names: Mohammadreza
+    - family-names: Kavianpour
+      given-names: Mohammadreza
+    - family-names: Beheshti
+      given-names: "Mohammad T. H."
+    - family-names: Ramezani
+      given-names: Amin
+  collection-title: "2022 8th International Conference on Control, Instrumentation and Automation (ICCIA)"
+  conference:
+    name: "8th International Conference on Control, Instrumentation and Automation (ICCIA)"
+  year: 2022
+  publisher:
+    name: IEEE
+  doi: "10.1109/ICCIA54998.2022.9737184"
+  url: "https://doi.org/10.1109/ICCIA54998.2022.9737184"
