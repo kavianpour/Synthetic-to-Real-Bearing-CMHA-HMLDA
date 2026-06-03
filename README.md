@@ -1,5 +1,5 @@
 # Synthetic-to-Real Bearing Fault Diagnosis via Convolutional Multi-Head Attention and Hybrid Domain Alignment
-> Official implementation of the IEEE ICSPIS 2021 paper: "**Synthetic to Real Framework based on Convolutional Multi-Head Attention and Hybrid Domain Alignment**".
+> Official implementation of the IEEE ICCIA 2022 paper: "**Synthetic to Real Framework based on Convolutional Multi-Head Attention and Hybrid Domain Alignment**".
 
 > **CMHA-HMLDA** — an unsupervised synthetic-to-real framework that trains on labeled *synthetic* bearing data and diagnoses *unlabeled real* faults, using a convolutional multi-head attention feature extractor and a hybrid (global + local) multi-layer domain alignment loss.
 
